@@ -1,0 +1,142 @@
+body
+{
+    background-color: #0a0a0a;
+    display: flex;
+    flex-direction:row;
+    width: 600px;
+    height:800px;
+    justify-content: center;
+    padding-left: 450px;
+}
+
+#cot1
+{
+    width: 30%;
+    background-color:white;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+#cot2
+{   
+    width: 100%;
+    background-color:#f8e7f2;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.c11
+{
+    height: 5%;
+    background-color:#f8e7f2;
+    display:flex;
+    flex-direction:row;
+}
+.c12
+{   
+    height: 85%;
+    background-color:white;
+    flex-direction:row;
+    box-shadow: rgb(175, 174, 174) 5px 3px;
+    align-items: center;
+}
+
+.c13
+{
+    height: 5%;
+    background-color:#f8e7f2;
+    display:flex;
+    flex-direction:row;
+
+    
+}
+img
+{
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+}
+.c121{
+     margin: 10px;
+     padding: 20px;
+}
+.c122{
+    margin: 7px;
+    padding: 10px;
+}
+.c21{
+    width: 75%;
+    height: 3%;
+    background-color:white;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: rgb(175, 174, 174) 5px 3px;
+   
+}
+.c22{
+    width: 75%;
+    height: 3%;
+    background-color:white;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: rgb(175, 174, 174) 5px 3px;
+    
+    
+}
+.c23{
+    width: 75%;
+    height: 3%;
+    background-color:white;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: rgb(175, 174, 174) 5px 3px;
+  
+    
+}
+.c24{
+    width: 75%;
+    height: 3%;
+    background-color:white;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: rgb(175, 174, 174) 5px 3px;
+    
+}
+.c2
+{
+    height: 10%;
+    background-color:#f8e7f2;
+    display:flex;
+    flex-direction:row;
+}
+.name{
+    font-size : 18px ;
+}
+.id{
+    font-size : 15px ;
+}
+.ND{
+    font-size : 10px ;
+}
+.topic{
+    font-size : 15px ;
+}
+.ND2{
+    font-size : 11px ;
+}
+.link{
+    font-size : 12px ; 
+}
+
+
+
+
